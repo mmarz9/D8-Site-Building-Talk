@@ -1,3 +1,7 @@
-# D8-Site-Building-Talk
-This talk was developed for the Drupal North Camp in June of 2015
-Enjoy!
+# Drupal 8 Site Building Test Drive
+
+These slides are designed to accompany a introductory talk on Drupal 8 Site building
+
+Target running time of 45min - 1 hour
+
+Powered by reveal.js
