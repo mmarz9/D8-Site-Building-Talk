@@ -1,4 +1,4 @@
-# Drupal 8 Whats new in core: Site Building
+# Drupal 8 Whats New In Core: Site Building
 
 These slides are designed to accompany a introductory talk on Drupal 8 Site building
 
