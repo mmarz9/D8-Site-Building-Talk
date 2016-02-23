@@ -1,4 +1,4 @@
-# Drupal 8 Site Building Test Drive
+# Drupal 8 Whats new in core: Site Building
 
 These slides are designed to accompany a introductory talk on Drupal 8 Site building
 
